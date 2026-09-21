@@ -1,1 +1,1 @@
-# dashboard.github.io
+# AI4DPP Dashboard
